@@ -1,7 +1,9 @@
 {
   "classes": [
+    "garrafa",
     "girassois",
     "margaridas",
+    "pilha",
     "rosas"
   ],
   "image_size": 96
